@@ -101,14 +101,6 @@ main>section{
 
 
 /* Features section related styles */
-
-.features{
-  gap:140px;
-  margin-top: 0px ;
-   margin-bottom:0px;
-   
-
-}
 #featue-section-title{
   border-left: 5px solid #FF900E;
   padding:20px;

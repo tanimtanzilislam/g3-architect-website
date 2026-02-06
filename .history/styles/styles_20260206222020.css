@@ -101,35 +101,14 @@ main>section{
 
 
 /* Features section related styles */
-
-.features{
-  gap:140px;
-  margin-top: 0px ;
-   margin-bottom:0px;
-   
-
-}
 #featue-section-title{
-  border-left: 5px solid #FF900E;
-  padding:20px;
+  border-
 }
-
-.feature-card-
 .facts-container{
   display:grid;
   grid-template-columns: repeat(4,1fr);
 }
 
-.feature-card{
-   padding:30px;
-  box-shadow: 0 4px 30px 0 rgba(0,0,0,0.06);
-  margin-bottom:20px
-}
-.feature-card .feature-title{
-  font-weight:600;
-  font-size:1.25rem;
- 
-}
 /* Some Facts related styles */
 .fact-card{
   border: 1px solid #FF900E;
