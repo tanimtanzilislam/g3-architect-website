@@ -100,7 +100,7 @@ main>section{
 
 }
 
-.section-title{
+.feature-title{
   font-size:2.5rem;
   font-weight: 700;
 }
@@ -120,12 +120,7 @@ main>section{
 
   }
 
-  .teams-img-container{
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .our-features{
-    margin-left:20px;
-  }
+  .teams-img
 
 }
 
@@ -133,16 +128,4 @@ main{
   max-width:1440px;
   margin:0px auto;
 
-}
-
-/*  medium size device */
-@medium screen and (min-width:576 px ) and (max-width:992 px){
-  
-  .teams{
-    flex-direction:column
-
-  }
-  .our-features{
-   margin:50px auto;
-  }
 }
