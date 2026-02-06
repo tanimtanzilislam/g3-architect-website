@@ -128,18 +128,11 @@ main>section{
   font-weight: 600;
   margin-top:5px;
   margin-bottom:10px;
-
-}
-.fact-name{
-  font-size:1.25rem;
-  font-weight:600 px;
+  
 }
 
 .text-primary{
   color:#FF900E;
-}
-.fact-description{
-  max-width:540px;
 }
 /* responsive media query */
  @media screen and( max-width:576px){

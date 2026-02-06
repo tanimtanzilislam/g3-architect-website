@@ -132,14 +132,11 @@ main>section{
 }
 .fact-name{
   font-size:1.25rem;
-  font-weight:600 px;
+  font-weight:600
 }
 
 .text-primary{
   color:#FF900E;
-}
-.fact-description{
-  max-width:540px;
 }
 /* responsive media query */
  @media screen and( max-width:576px){

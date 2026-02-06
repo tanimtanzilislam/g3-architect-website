@@ -138,9 +138,7 @@ main>section{
 .text-primary{
   color:#FF900E;
 }
-.fact-description{
-  max-width:540px;
-}
+.fact
 /* responsive media query */
  @media screen and( max-width:576px){
   .navbar ,.nav-links, .teams{
