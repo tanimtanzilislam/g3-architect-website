@@ -7,3 +7,21 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* shared styles */
+.display-flex{
+  display:flex;
+}
+
+
+
+
+/* header styles */
+
+
+
+/* navbar related styles */
+
+.navbar{
+  display:flex;
+}
