@@ -181,7 +181,7 @@ main>section{
 }
 
 .sponsor-companies{
-  display:flex;
+  display:grid;
   justify-items: center;
   gap:24px;
 }

@@ -181,7 +181,7 @@ main>section{
 }
 
 .sponsor-companies{
-  display:flex;
+  display:grid;
   justify-items: center;
   gap:24px;
 }
@@ -224,7 +224,6 @@ main{
 
 .sponsor-companies img{
   display:flex;
-  flex-direction:row;
   filter:grayscale(100%);
 }
 
